@@ -11,7 +11,7 @@ source:
 
 build:
   noarch: python
-  number: 0
+  number: 1
   script_env:
     - SETUPTOOLS_SCM_PRETEND_VERSION={{ version }}
   script: {{ PYTHON }} -m pip install . -vv
@@ -24,12 +24,11 @@ requirements:
   run:
     - cf_xarray
     - netcdf4
-    - numpy <1.24
+    - numpy
     - python >={{ python_min }}
     - requests
     - scikit-learn  # for xoak tree
     - xarray
-    - xoak
     # - pip:  # install from github to get recent PRs I contributed
     #   - git@github.com:xarray-contrib/cf-xarray.git
 

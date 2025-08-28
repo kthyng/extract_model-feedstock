@@ -31,7 +31,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-extract_model-green.svg)](https://anaconda.org/conda-forge/extract_model) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/extract_model.svg)](https://anaconda.org/conda-forge/extract_model) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/extract_model.svg)](https://anaconda.org/conda-forge/extract_model) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/extract_model.svg)](https://anaconda.org/conda-forge/extract_model) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-extract__model-green.svg)](https://anaconda.org/conda-forge/extract_model) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/extract_model.svg)](https://anaconda.org/conda-forge/extract_model) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/extract_model.svg)](https://anaconda.org/conda-forge/extract_model) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/extract_model.svg)](https://anaconda.org/conda-forge/extract_model) |
 
 Installing extract_model
 ========================
